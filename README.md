@@ -1,9 +1,9 @@
-CareerBloom-Hub
+JobLinker
 
 A Comprehensive Job Portal System
 
 
-CareerBloom-Hub is an open-source job portal developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack, aiming to bridge the gap between students seeking jobs and recruiters offering opportunities.
+JobLinker is an open-source job portal developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack, aiming to bridge the gap between students seeking jobs and recruiters offering opportunities.
 
 FEATURES:
 
